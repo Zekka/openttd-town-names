@@ -1,0 +1,6 @@
+import codecs
+with open("original_plus_generated_unique.txt", "rt") as f:
+    with open("georgian_town_names.nml", "wt") as f2:
+        for line in f:
+            f2.write("    text(\"" + line.strip() + "\", 1), \n")
+

@@ -1,0 +1,4 @@
+##grflangid 0x00
+STR_GRF_NAME :Georgian Town Names (Country)
+STR_GRF_DESC :Generates town names based on the names of geographic regions in the nation of Georgia. Note that there are only around 1200 names.
+STR_STYLES :Georgian

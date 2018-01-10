@@ -1,0 +1,6 @@
+import codecs
+with open("concat_all.txt", "rt") as f:
+    with open("tibetan_town_names.nml", "wt") as f2:
+        for line in f:
+            f2.write("    text(\"" + line.strip() + "\", 1), \n")
+

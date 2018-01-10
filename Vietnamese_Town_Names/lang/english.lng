@@ -1,0 +1,4 @@
+##grflangid 0x00
+STR_GRF_NAME :Vietnamese Town Names
+STR_GRF_DESC :Generates town names based on the names of cities in Vietnam. I've squeezed down the character set (which has mangled some names) to make it work on an ordinary English OpenTTD installation.
+STR_STYLES :Vietnamese
